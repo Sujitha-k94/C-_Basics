@@ -1,0 +1,11 @@
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.exe
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.deps.json
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.runtimeconfig.json
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.runtimeconfig.dev.json
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.dll
+D:\Mine\ConsoleApp1\Abstract_Sealed\bin\Debug\netcoreapp3.1\Abstract_Sealed.pdb
+D:\Mine\ConsoleApp1\Abstract_Sealed\obj\Debug\netcoreapp3.1\Abstract_Sealed.csprojAssemblyReference.cache
+D:\Mine\ConsoleApp1\Abstract_Sealed\obj\Debug\netcoreapp3.1\Abstract_Sealed.AssemblyInfoInputs.cache
+D:\Mine\ConsoleApp1\Abstract_Sealed\obj\Debug\netcoreapp3.1\Abstract_Sealed.AssemblyInfo.cs
+D:\Mine\ConsoleApp1\Abstract_Sealed\obj\Debug\netcoreapp3.1\Abstract_Sealed.dll
+D:\Mine\ConsoleApp1\Abstract_Sealed\obj\Debug\netcoreapp3.1\Abstract_Sealed.pdb

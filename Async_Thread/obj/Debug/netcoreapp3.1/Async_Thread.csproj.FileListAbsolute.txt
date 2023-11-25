@@ -1,0 +1,11 @@
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.exe
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.deps.json
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.runtimeconfig.json
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.runtimeconfig.dev.json
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.dll
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\bin\Debug\netcoreapp3.1\Async_Thread.pdb
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\obj\Debug\netcoreapp3.1\Async_Thread.csprojAssemblyReference.cache
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\obj\Debug\netcoreapp3.1\Async_Thread.AssemblyInfoInputs.cache
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\obj\Debug\netcoreapp3.1\Async_Thread.AssemblyInfo.cs
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\obj\Debug\netcoreapp3.1\Async_Thread.dll
+D:\Mine\Exercises\ConsoleApp1\Async_Thread\obj\Debug\netcoreapp3.1\Async_Thread.pdb
